@@ -8,8 +8,8 @@ and evaluation on four distinct datasets. DFDC, FF++, DeepFakeTIMIT, and Celeb-D
 achieving notably high classification accuracy, F1 Scores, and AUC values. It rises to the challenge of generalizability in deepfake
 detection by effectively differentiating a wide spectrum of falsified videos while upholding the integrity of digital media.
 
-
-
+<br>
+<br>
 <p align="center">
   <img src="https://github.com/rohinikoli10/GenConViT-plus/assets/134802668/c62a32ce-a2dc-4044-833f-505790ca7c0a" alt="Screenshot 2024-01-22 171447">
 </p>
