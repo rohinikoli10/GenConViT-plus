@@ -11,7 +11,8 @@ detection by effectively differentiating a wide spectrum of falsified videos whi
 
 
 <p align="center">
-![Screenshot 2024-01-22 171447](https://github.com/rohinikoli10/GenConViT-plus/assets/134802668/c62a32ce-a2dc-4044-833f-505790ca7c0a)
+  <img src="https://github.com/rohinikoli10/GenConViT-plus/assets/134802668/c62a32ce-a2dc-4044-833f-505790ca7c0a" alt="Screenshot 2024-01-22 171447">
 </p>
+
 
 <p align="center">GenConViT+ model architecture </p>
