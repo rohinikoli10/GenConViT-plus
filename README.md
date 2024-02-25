@@ -17,9 +17,11 @@ detection by effectively differentiating a wide spectrum of falsified videos whi
 
 <p align="center">GenConViT+ Architecture </p>
 
+<br>
+
 ## Models
-Autoencoder (AE)
-Variational Autoencoder (VAE)
-ConvNeXt-Swin
-CNN3D
+      Autoencoder (AE) <br>
+      Variational Autoencoder (VAE) <br>
+      ConvNeXt-Swin <br>
+      CNN3D
 
