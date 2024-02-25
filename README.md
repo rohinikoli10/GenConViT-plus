@@ -20,8 +20,8 @@ detection by effectively differentiating a wide spectrum of falsified videos whi
 <br>
 
 ## Models
-      Autoencoder (AE) <br>
-      Variational Autoencoder (VAE) <br>
-      ConvNeXt-Swin <br>
+      Autoencoder (AE) 
+      Variational Autoencoder (VAE) 
+      ConvNeXt-Swin 
       CNN3D
 
