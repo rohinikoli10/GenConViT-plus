@@ -7,9 +7,8 @@ and Variational Autoencoders to discern patterns in latent data distribution. Ou
 and evaluation on four distinct datasets. DFDC, FF++, DeepFakeTIMIT, and Celeb-DF (v2). The results speak volumes, with GenConViT
 achieving notably high classification accuracy, F1 Scores, and AUC values. It rises to the challenge of generalizability in deepfake
 detection by effectively differentiating a wide spectrum of falsified videos while upholding the integrity of digital media.
-<br>
+
 
 ![Screenshot 2024-01-22 171447](https://github.com/rohinikoli10/GenConViT-plus/assets/134802668/6ab2cfc8-0687-4fcc-931b-3af2dbd61212)
 
-align= "Center"
-GenConViT+ model architecture                                        
+<text align="center" GenConViT+ model architecture >                                       
