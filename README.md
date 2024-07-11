@@ -19,9 +19,22 @@ detection by effectively differentiating a wide spectrum of falsified videos whi
 
 <br>
 
+
 ## Models
       Autoencoder (AE) 
       Variational Autoencoder (VAE) 
       ConvNeXt-Swin 
       CNN3D
+
+
+## Installation
+
+### Prerequisites
+- Python 3.11.0
+- List other dependencies or software required
+
+### Clone the Repository
+```bash
+git clone https://github.com/yourusername/yourproject.git
+cd 
 
