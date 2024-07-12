@@ -18,7 +18,35 @@ Deepfakes are highly realistic, AI-generated videos that can convincingly depict
       Variational Autoencoder (VAE) 
       ConvNeXt-Swin 
       CNN3D
+      
+## Installation
+Clone the repository
+
+      git clone https://github.com/rohinikoli10/GenConViT-Plus.git
+
+      cd GenConViT-Plus
 
 
+Install dependencies
+
+      pip install -r requirements.txt
+
+Training
+
+      python train.py -e <num_epochs> -d <data_path> -m <model_type> -p <pretrained_model> -c <use_cnn3d>
+
+Testing
+
+      python test.py -d <data_path> -m <model_type> -p <pretrained_model>
+
+## Contributing
+Contributions are welcome! Please fork the repository and submit pull requests. For major changes, please open an issue first to discuss the changes you would like to make.
+
+## License
+This project is licensed under the MIT License
+      
+   
+     
+  
 
 
